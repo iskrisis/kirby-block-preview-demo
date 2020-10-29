@@ -1,0 +1,17 @@
+.k-block-quote {
+  padding: 1.5rem 0;
+}
+
+.k-block-quote-editor {
+  padding-left: 1rem;
+  border-left: 2px solid #000;
+}
+
+.k-block-quote-text {
+  margin-bottom: 0.25rem;
+  line-height: 1.25em;
+}
+
+.k-block-quote-citation {
+  font-style: italic;
+}
